@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container">
+		<Label id="warning" class="name"></Label>
+		<Label id="instructions" class="instructions">Place your Felica cards against the back of the tablet.</Label>
+
+		<TableView id="records"/>
+		<Button onClick="onClear">Clear</Button>
+	</Window>
+</Alloy>
